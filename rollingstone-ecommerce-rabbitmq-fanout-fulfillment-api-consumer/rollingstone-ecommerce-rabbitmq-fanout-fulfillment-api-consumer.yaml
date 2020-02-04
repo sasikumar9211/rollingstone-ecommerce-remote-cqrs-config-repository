@@ -1,5 +1,5 @@
 server:
-  port: 2050
+  port: 2051
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rsecommerce_cqrs?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
