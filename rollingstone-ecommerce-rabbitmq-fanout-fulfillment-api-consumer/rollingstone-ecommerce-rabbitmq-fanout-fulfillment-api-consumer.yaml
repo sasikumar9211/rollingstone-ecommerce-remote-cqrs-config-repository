@@ -22,7 +22,7 @@ spring:
 
 management:
   server:
-    port: 4095
+    port: 4096
   endpoints:
     web:
       exposure:
